@@ -273,7 +273,7 @@ Your use of the Services is also governed by our Privacy Policy. Please review t
 ## 12. Dispute Resolution
 
 ### 12.1 Informal Resolution
-Before initiating formal proceedings, you agree to attempt to resolve any dispute by contacting our support team at support@instantfeed.com with detailed information about the issue.
+Before initiating formal proceedings, you agree to attempt to resolve any dispute by contacting our support team at info@instfeed.com with detailed information about the issue.
 
 ### 12.2 Escalation
 If informal resolution fails, escalations will be handled by our legal team. Disputes must be escalated within 90 days of the issue.
@@ -359,23 +359,23 @@ No waiver of any provision of these Terms shall be effective unless in writing a
 
 ## 19. Accessibility
 
-We are committed to making our Services accessible to individuals with disabilities. If you experience accessibility issues, please contact us at accessibility@instantfeed.com.
+We are committed to making our Services accessible to individuals with disabilities. If you experience accessibility issues, please contact us at info@instfeed.com.
 
 ---
 
 ## 20. Contact & Support
 
 ### 20.1 Customer Support
-- **Support Email:** support@instantfeed.com
+- **Support Email:** info@instfeed.com
 - **Response Time:** We aim to respond within 24-48 hours
 
 ### 20.2 Legal Notices
-- **Legal Inquiries:** legal@instantfeed.com
+- **Legal Inquiries:** info@instfeed.com
 
 ### 20.3 Reporting Violations
-- Report Terms violations: abuse@instantfeed.com
-- Report intellectual property infringement: dmca@instantfeed.com
-- Report fraud: fraud@instantfeed.com
+- Report Terms violations: info@instfeed.com
+- Report intellectual property infringement: info@instfeed.com
+- Report fraud: info@instfeed.com
 
 ---
 
@@ -396,7 +396,7 @@ By accessing and using our Services, you acknowledge that you have read and unde
 
 **Last Updated:** March 2026
 
-For questions about these Terms, contact us at legal@instantfeed.com.
+For questions about these Terms, contact us at info@instfeed.com.
 
 ---
 

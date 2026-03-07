@@ -215,7 +215,7 @@ Object to certain uses of your data
 ### 7.6 Right to Withdraw Consent
 Withdraw consent for data processing at any time
 
-To exercise any of these rights, please contact us at privacy@instantfeed.com. We will respond within 30 days.
+To exercise any of these rights, please contact us at [info@instfeed.com]. We will respond within 30 days.
 
 ---
 
@@ -257,8 +257,8 @@ Your continued use of the Services after changes constitutes your acceptance of 
 If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
 **InstantFeed Privacy Team**
-- Email: privacy@instantfeed.com
-- Support Portal: support@instantfeed.com
+- Email: info@instfeed.com
+- Support Portal: info@instfeed.com
 - Response Time: We respond to privacy inquiries within 30 days
 
 ---
